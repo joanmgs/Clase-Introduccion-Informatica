@@ -1,0 +1,19 @@
+Visual Studio Code 
+Es un IDE, una herramienta para la creación y desarrollo de programas.
+
+CLI Interfaz de línea de comandos: da instrucciones por medio de comandos de texto y se encuentra presente en todos los SO.
+- Son más rápidos que en las interfaces gráficas. 
+- Los comandos son flexibles. 
+- Los comandos siempre funcionarán de la misma manera.
+
+Comandos
+instrucciones codificadas para ser interpretadas por los SO. Tienen sintaxis propia (forma en que debe ser escrito).
+
+Sintaxis de comandos
+    Argumento: información adicional que va seguida al comando.
+    Opción o flag: seguidos al comando y acompañado de un guión medio.
+
+Lista de comandos
+    Nano : es como abrir un bloc de notas de un archivo indicado.
+    rm -r : es para borrar directorios y su contenido; rm solo, únicamente borra 1 archivo. La -r hace que vaya borrando más de un archivo.
+    .. : los dos puntos sirven para ir una carpeta hacia atrás. Si se sigue combinando es una forma de moverse entre carpetas. Ejemplo: estando en juegos que está dentro de Documents, quiero ir a la carpeta de roma en Documents también, entonces: ../roma

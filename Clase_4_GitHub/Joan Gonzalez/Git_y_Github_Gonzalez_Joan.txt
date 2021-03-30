@@ -1,0 +1,19 @@
+Mochila de Viajero
+
+1. ¿Quién inventó el sistema de control de versión de Git y por qué?
+    Lo diseña Linus Torvalds. Él deseaba un sistema de distribución como Bitkeeper que fuese gratuito,
+    sin embargo, no había ninguno en ese momento que satisfaciera lo que necesitaba.
+    Él quería un sistema que se adaptara a las necesidades de desarrollo de Linux Kernel.
+    Así que decide crear uno propio.
+
+
+2. ¿A quién pertenece actualmente GitHub y por qué?
+    A Microsoft, y acorde al Harvard Business Review, lo hizo para acceder a la base de datos de 
+    todos los usuarios que están en la plataforma, para así poder guiarlos al entorno de desarrollo 
+    de Microsoft. Pagó una suma grande de dinero, no por el producto, sino por las personas que lo usan, 
+    y para influenciarlas a usar sus propios productos de Microsoft.
+
+3. ¿Hay otra forma que no sea la terminal de trabajar con GitHub?
+    Se puede usar de forma directa a través de la página.
+    Por medio de extensiones de VSC.
+    Por medio de la aplicación GitHub Desktop.

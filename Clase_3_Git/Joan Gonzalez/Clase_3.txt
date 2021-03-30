@@ -1,0 +1,37 @@
+Necesidades de los programadores
+- Backup de archivos continuamente actualizados.
+- Compartir trabajo.
+
+Git: permite satisfacer las necesidades. 
+- Es software de control de versiones, para eficiencia y confiabilidad de mantenimiento de apps cuando tienen varios archivos de código fuente. 
+- Lleva registro de cambios de archivos, coordina y hace seguimiento a quienes los hacen. Es un historial de actualizaciones y es posible volver a versiones anteriores. 
+- Compartir archivos de una manera fácil y sencilla, para hacer seguimiento a integrantes y sus actualizaciones. 
+
+En Windows se hace uso de Git Bash. En Linux hay instrucciones especiales. En Mac ya viene instalado. 
+
+Indicadores de VSC
+Los archivos sin seguimiento tendrán una U enfrente; la u es de la palabra Untracked (sin seguimiento).
+Los archivos agregados tendrán una A enfrente; la a es de la palabra Added (agregado).
+Los archivos existentes en el repositorio pero modificados tendrán una M enfrente; la m es de la palabra Modifed (modificado).
+
+Repositorio local remoto
+Almacén de archivos en los que se guardan pequeños paquetes que se llaman commit, permiten hacer seguimiento de cambios que se realizan, poseen una timestap o fecha de creación y un autor, son el historial de cambios del proyecto. Hay que decirle al repositorio quién realiza el cambio.
+
+Commits 
+Es confirmación al repositorio que archivos agregados lo queremos como un paquete de modificaciones que tiene marca de tiempo y autor. Generan puntos cronológicos que permiten identificar estado del mismo hasta ese momento, también es posible volver a ellos. Para crear el commit deben agregarse previamente los archivos al repositorio.
+
+Comandos Git
+* git --versión : Para conocer la versión.
+* git init : Crea repositorio local vacío de la carpeta en la que uno se encuentra ubicado.
+* git config user.name “usuario” : no muestra texto después, para confirmar que ya se configuro, solo colocar git config user.name ; también se necesita dejarle el correo electrónico de GitHub git config user.email “mi-email”, para confirmarlo git config user.email ; Para dejar indicado que la computadora siempre manejará ese usuario e email, se usará —global después de git config en ambas configuraciones, name e email.
+* git remote add origin https://github.com/userName/RepoRemoto : apunta al repositorio remoto.
+* git add : Para agregar los archivos, se indica los archivos que se desea agregar.
+* git add . : Para agregar todos los archivos de carpeta al repositorio.
+* git status : Indica status de archivos respecto a repositorio. En la terminal puede aparecer que existen archivos sin seguir, no necesariamente es nuevo, puede existir en repositorio pero con cambios.
+* git commit -m “mensaje” : Realiza commit con un mensaje que se recomienda indique los cambios hechos hasta el momento. Esto genera un punto en línea cronológica del repositorio.
+* git log : Es posible observar el historial de los commit, con el autor y su mensaje (commit)
+* git config --list : permite conocer las configuraciones, como name e email.
+* git checkout -- nombreArchivo : permite sacar archivos del repositorio.
+
+Comandos CLI
+* ls -a : muestra ocultos

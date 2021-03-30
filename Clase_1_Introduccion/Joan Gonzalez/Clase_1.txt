@@ -1,0 +1,43 @@
+Computadora
+Dispositivo capaz de recibir instrucciones indicadas por un usuario a través de una interfaz y el sistema las interpreta y ejecuta (software) de acuerdo a los recursos (hardware) que posee.
+
+Programar 
+Ordenar a una computadora qué, cómo y cuándo hacer algo.
+
+Inteligencia Artificial (IA)
+Es capaz de aprender y tomar decisiones por sí sola.
+
+Historia
+- Inicio con el Ábaco.
+- Pascalina.
+- Tarjetas perforadas (guarda información para crear diseños de telas complejos).
+- Primera computadora - Charles Babbage.
+- Primer algoritmo - Ada Lovelace.
+- Máquina de Turing (ejecutar programas almacenados).
+- ENIAC - operadas por chicas del refrigerador, primeras programadoras.
+- Primera arquitectura de una computadora - Von Neumann.
+- Para IBM en 2011 entramos en la Era Cognitiva. Aparecen las computadoras cuánticas.
+
+Continuamente se perfeccionan los recursos de las computadoras para que logren tomar decisiones por sí solas (IA).
+
+Glosario técnico
+
+Hardware (Partes físicas tangibles de la computadora)
+    Entrada
+    Salida
+    Internos
+
+Software (Componentes lógicos que permiten la realización de tareas de la computadora)
+    Sistemas
+    Programación
+    Aplicación
+
+Servidores (Computadora que atiende peticiones de un cliente y devuelve una respuesta acorde)
+    Web
+    Bases de datos
+    Archivos
+
+Interfaces de usuarios UI (Espacio donde usuario y computadora interactuan para permitir el funcionamiento y control de los sistemas informáticos)
+    Interfaz de línea de comandos (CLI)
+    Interfaz gráfica de usuario (GUI)
+    Interfaz nativa de usuario (NUI)
